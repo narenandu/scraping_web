@@ -1,0 +1,5 @@
+.venv*
+.vscode
+.sonarlint
+v-env
+venv
